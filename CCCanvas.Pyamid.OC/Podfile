@@ -1,0 +1,17 @@
+#
+# Created by CC (deng you hua | cworld1000@gmail.com) on 2021/11/17
+# https://github.com/ccworld1000/CCCanvas.Pyamid/CCCanvas.Pyamid.OC
+#
+
+platform :ios, '10.0'
+
+target 'CCCanvas.Pyamid.OC' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CCCanvas.Pyamid.OC
+  # https://github.com/ccworld1000/CCCanvas
+  pod 'CCCanvas'
+
+end
+
