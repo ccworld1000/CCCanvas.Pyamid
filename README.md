@@ -2,7 +2,7 @@
 
 ###### [友情提示1:主要是演示用,不考虑向前兼容]
 ###### [友情提示2:可通过Pod升级到最新的framework,或者直接手动导入项目皆可]
-###### [友情提示3:开发环境, Xcode 13, CocoaPods 1.11.0, CCCanvas (>= 0.0.30)]
+###### [友情提示3:开发环境, Xcode 13.1, CocoaPods 1.11.0, CCCanvas (> 0.0.30)]
 5点是不是可以形成金字塔 具体详情  [<<Objective-C代码链接>>](https://github.com/ccworld1000/CCCanvas.Pyamid/CCCanvas.Pyamid.OC)  [<<Swift代码链接>>](https://github.com/ccworld1000/CCCanvas.Pyamid/CCCanvas.Pyamid.Swift) 
 
 ### [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal GPU 极简体验Demo系列
